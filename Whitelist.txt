@@ -5,4 +5,4 @@
 @@|rptrcks.walmart.com^$important
 @@|m.weeklyad.target.com^$important
 @@|weeklyad.target.com.edgesuite.net^$important
-@@||www.webmd.com^$important
+
