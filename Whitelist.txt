@@ -1,8 +1,8 @@
-@@|*.ky3.com^$important
-@@|*.arcpublishing.com^$important
-@@|weeklyad.target.com^$important
-@@|samsclub.r.delivery.net^$important
-@@|rptrcks.walmart.com^$important
-@@|m.weeklyad.target.com^$important
-@@|weeklyad.target.com.edgesuite.net^$important
+@@||*.ky3.com^$important
+@@||*.arcpublishing.com^$important
+@@||weeklyad.target.com^$important
+@@||samsclub.r.delivery.net^$important
+@@||rptrcks.walmart.com^$important
+@@||m.weeklyad.target.com^$important
+@@||weeklyad.target.com.edgesuite.net^$important
 
