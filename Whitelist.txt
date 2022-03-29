@@ -7,3 +7,4 @@
 @@|weeklyad.target.com.edgesuite.net^$important
 @@|webmd.com^$important
 @@|s.youtube.com^$important
+@@|*.webmd.com^$important
